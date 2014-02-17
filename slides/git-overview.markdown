@@ -73,6 +73,5 @@ Note: What happens when branches are cheap and easy to create, and developers do
 
 
 #Confusion
-![Tangled wires](stock-vector-seamless-tangled-wires-vector-eps-110064839.jpg)
 
 Note: Developers bring their own assumptions and internal mental models to each project. When those assumptions conflict with the reality of a branching model, things can go downhill quickly. Developers don't know what branches have what features, and worst of all, it is difficult or impossible to know what is the "truth" any more. Git is just a tool; it is not a process.
